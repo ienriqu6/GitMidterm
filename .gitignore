@@ -1,0 +1,16 @@
+*
+
+!.gitignore
+
+!src
+!src/
+!src/**
+
+!build/
+!build/**
+
+!WebContent/
+!WebContent/**
+
+!*.txt
+!*.md
